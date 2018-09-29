@@ -1,0 +1,13 @@
+body{
+    
+    background-image:url("intro.jpg");
+    color: #666;
+	font-family: sans-serif; 
+	width: 50%; 
+	max-width: 800px; 
+	min-width: 480px; 
+	margin: 0 auto; 
+	} 
+input{
+    color:black;
+}
