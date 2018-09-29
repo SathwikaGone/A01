@@ -1,0 +1,52 @@
+* {  
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  html {
+    display: block;
+  }
+  
+  body {
+    margin: 1em;
+    background-image:url(background-pictures-of-nature-23.jpg);
+    background-size:100%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+  }
+  
+
+  
+  main {
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    
+    color: #444;
+    padding: 1em;
+  }
+  
+  section {
+    background-color: #1fc593;
+    color: #fff;
+    border-radius: 0.5em;
+    padding: 2em;
+    margin: 3em;
+    font-size: 1em;
+    text-align: center;
+    height: 40%;
+    width: 60%;
+  }
+  
+  ol, ul {
+    padding-left: 1em;
+    padding-bottom: 1em;
+  }
+  
+  li {
+     text-align: left;
+     font-size: 1em;
+  }
+  
+  a {
+    text-decoration: none;
+  }
