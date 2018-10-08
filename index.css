@@ -2,13 +2,20 @@ body {
   padding-top: 60px;
   padding-bottom: 10px;
     background-image:url("pic.jpeg");
+<<<<<<< HEAD
     background-size:100%;
     background-repeat:repeat;
+=======
+    background-repeat:no-repeat;
+>>>>>>> fa93de6e88ef28692adb1702e1600f02fcea5f9a
     margin: auto;
     border: 5px;
     border-color:white;
     font-style: normal;
+<<<<<<< HEAD
     color:white;
+=======
+>>>>>>> fa93de6e88ef28692adb1702e1600f02fcea5f9a
 }
 footer{
   background-color: #000000;
@@ -44,6 +51,10 @@ margin-left:300px;
 #current-sec{
   font-style: italic;
 }
+<<<<<<< HEAD
 #current-se1{
+=======
+#current-se{
+>>>>>>> fa93de6e88ef28692adb1702e1600f02fcea5f9a
   font-style: italic;
 }
